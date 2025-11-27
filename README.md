@@ -4,7 +4,7 @@ This repository contains the source code for **FoxAssured**, the professional po
 
 The site is designed to showcase my technical expertise in test automation, quality assurance consulting, and software architecture, while providing a clean, accessible interface for potential clients and employers.
 
-## 🚀 Live Site
+## Live Site
 Visit the live application at: **[foxassured.com](https://foxassured.com)**
 
 ## 🛠 Tech Stack
@@ -18,7 +18,7 @@ Built with modern web technologies focusing on performance, maintainability, and
 *   **Icons:** [Lucide React](https://lucide.dev/)
 *   **Build:** Vite (implied) / Standard React Scripts
 
-## ✨ Features
+## Features
 
 *   **Responsive Design:** Fully fluid layout that adapts from mobile devices to large desktops.
 *   **Pastel Aesthetic:** A custom-configured Tailwind theme utilizing a specific `pastel-green` palette for a clean, approachable professional look.
@@ -28,7 +28,7 @@ Built with modern web technologies focusing on performance, maintainability, and
 *   **Service Listings:** Clear categorization of SDET services (Automation, Auditing, CI/CD).
 *   **Education Section:** Placeholder for upcoming educational content and courseware.
 
-## 🏃‍♂️ Running Locally
+## Running Locally
 
 To run this project on your local machine:
 
@@ -50,7 +50,7 @@ To run this project on your local machine:
 
 4.  Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-## 📦 Deployment to GitHub Pages
+## Deployment to GitHub Pages
 
 This project is configured for deployment to GitHub Pages with a custom domain (`foxassured.com`).
 
@@ -81,7 +81,7 @@ The `public/CNAME` file ensures GitHub Pages uses **foxassured.com**. Ensure you
 *   **A Records** pointing to GitHub IPs (185.199.108.153, etc.)
 *   **CNAME Record** for `www` pointing to `foxassured.github.io`
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /
@@ -97,12 +97,12 @@ The `public/CNAME` file ensures GitHub Pages uses **foxassured.com**. Ensure you
 └── vite.config.ts       # Build configuration
 ```
 
-## 📬 Contact
+## Contact
 
 *   **Email:** foxassured@gmail.com
 *   **LinkedIn:** [Kyle Fox](https://www.linkedin.com/in/kyle-fox1/)
 *   **GitHub:** [FoxAssured](https://github.com/FoxAssured)
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
