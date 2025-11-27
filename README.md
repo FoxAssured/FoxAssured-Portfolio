@@ -7,7 +7,7 @@ The site is designed to showcase my technical expertise in test automation, qual
 ## Live Site
 Visit the live application at: **[foxassured.com](https://foxassured.com)**
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Built with modern web technologies focusing on performance, maintainability, and type safety:
 
