@@ -1,23 +1,19 @@
 {
   "name": "foxassured-portfolio",
-  "homepage": "https://www.foxassured.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^5.1.1",
-    "gh-pages": "^6.3.0",
-    "lucide-react": "^0.554.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "lucide-react": "^0.554.0",
     "react-router-dom": "^7.9.6",
+    "@vitejs/plugin-react": "^5.1.1",
     "vite": "^7.2.4"
   },
   "devDependencies": {
