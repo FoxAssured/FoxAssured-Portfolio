@@ -4,7 +4,8 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/FoxAssured-Portfolio',
+  // Base must be '/' when using a custom domain (CNAME) on GitHub Pages
+  base: '/', 
   build: {
     outDir: 'dist',
   },
