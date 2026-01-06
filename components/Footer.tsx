@@ -55,11 +55,13 @@ const Footer: React.FC = () => {
             </a>
           </div>
           <div
-            className="group flex items-center gap-2 text-gray-500 hover:text-pastel-600 transition-colors cursor-default"
+            className="group flex items-center gap-2 text-gray-500 hover:text-pastel-600 transition-colors cursor-default max-w-full"
             aria-label="Email"
           >
-            <Mail size={18} />
-            <span className="font-medium">{EMAIL}</span>
+            <Mail size={18} className="flex-shrink-0" />
+            <span className="font-medium select-all break-all sm:break-normal text-sm sm:text-base">
+              {EMAIL}
+            </span>
           </div>
         </div>
 
